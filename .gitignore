@@ -1,0 +1,14 @@
+# Executables
+*.exe
+*.out
+*.app
+
+# IML
+*.iml
+
+# IDE files
+*.autotools
+*.project
+*.idea/
+*.pydevproject
+*.settings/
