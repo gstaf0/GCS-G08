@@ -22,6 +22,9 @@ public class Main {
             }
             else if(opcao == 2) {
                 SingletonBD.deletarUsuario();
+
+                // Teste de delecao
+                
             }
             else if(opcao == 3) {
                 SingletonBD.listarUsuarios();
