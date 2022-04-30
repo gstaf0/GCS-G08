@@ -7,7 +7,7 @@ public class Usuario {
     public Usuario(String usuario, String senha, String nome, int anoNascimento) {
         this.usuario = usuario;
         this.senha = senha;
-        this.nome = nomee;
+        this.nome = nome;
         this.anoNascimento = anoNascimento;
     }
 
