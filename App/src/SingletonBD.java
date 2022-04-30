@@ -7,7 +7,9 @@ public class SingletonBD {
 
     private SingletonBD() { }
 
-    public static void adicionarUsuario(){ }
+    public static void adicionarUsuario(){
+        System.out.println("Digite o login do novo suário");
+    }
 
     public static void deletarUsuario(){ }
 
