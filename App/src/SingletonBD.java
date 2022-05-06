@@ -8,6 +8,7 @@ public class SingletonBD {
     private SingletonBD() { }
 
     public static void adicionarUsuario(){
+        // No branch
         System.out.println("Digite o login do seu novo usuário");
         System.out.println("Digite a senha do seu novo usuário");
         System.out.println("Digite o seu nome completo");
@@ -18,7 +19,9 @@ public class SingletonBD {
 
     // Deletar usuario
 
-    public static void atualizarUsuario(){ }
+    public static void atualizarUsuario(){
+        // teste merge atualizar usuario giseli
+    }
 
     public static void listarUsuarios(){
         System.out.print("Opção 2 do menu - Listar Usuários:");
