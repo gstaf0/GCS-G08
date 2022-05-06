@@ -7,9 +7,16 @@ public class SingletonBD {
 
     private SingletonBD() { }
 
-    public static void adicionarUsuario(){ }
+    public static void adicionarUsuario(){
+        System.out.println("Digite o login do seu novo usuário");
+        System.out.println("Digite a senha do seu novo usuário");
+        System.out.println("Digite o seu nome completo");
+        System.out.println("Digite o seu ano de nascimento");
+    }
 
     public static void deletarUsuario(){ }
+
+    // Deletar usuario
 
     public static void atualizarUsuario(){ }
 
