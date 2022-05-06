@@ -13,6 +13,8 @@ public class SingletonBD {
 
     public static void atualizarUsuario(){ }
 
-    public static void listarUsuarios(){ }
+    public static void listarUsuarios(){
+        System.out.print("Opção 2 do menu - Listar Usuários:");
+    }
 
 }
