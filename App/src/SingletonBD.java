@@ -19,7 +19,9 @@ public class SingletonBD {
 
     // Deletar usuario
 
-    public static void atualizarUsuario(){ }
+    public static void atualizarUsuario(){
+        // teste merge atualizar usuario giseli
+    }
 
     public static void listarUsuarios(){ }
 
