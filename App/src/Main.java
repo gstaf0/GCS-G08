@@ -30,6 +30,7 @@ public class Main {
             }
             else if(opcao == 3) {
                 SingletonBD.listarUsuarios();
+                System.out.println("Listar usuários");
             }
             else if(opcao == 4) {
                 SingletonBD.atualizarUsuario();
