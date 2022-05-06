@@ -15,9 +15,9 @@ public class SingletonBD {
         System.out.println("Digite o seu ano de nascimento");
     }
 
-    public static void deletarUsuario(){ }
-
+    public static void deletarUsuario() {
         // Deletar Usuário
+    }
 
     public static void atualizarUsuario(){
         // teste merge atualizar usuario giseli
@@ -26,5 +26,5 @@ public class SingletonBD {
     public static void listarUsuarios(){
         System.out.println("Opção 2 do menu - Listar Usuários:");
     }
-
+    
 }

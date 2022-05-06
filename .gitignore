@@ -12,3 +12,4 @@
 *.idea/
 *.pydevproject
 *.settings/
+out/
