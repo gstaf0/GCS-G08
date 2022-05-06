@@ -23,7 +23,7 @@ public class Main {
             else if(opcao == 2) {
                 SingletonBD.deletarUsuario();
 
-                // Definir usuario
+                // Definir usuario para remover
                 // Remover usuario
 
 
